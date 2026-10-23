@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33849753/README.md)
-<div align="center">
 
 # 📥 FG TDownloader
 
